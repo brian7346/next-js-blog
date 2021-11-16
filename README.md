@@ -1,4 +1,4 @@
-# Website Accessibility Tester
+# Блог
 
 Блог на фреймворке [Next.js](https://nextjs.org/)
 
